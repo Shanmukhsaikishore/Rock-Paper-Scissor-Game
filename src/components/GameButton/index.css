@@ -1,0 +1,15 @@
+.choice-image {
+  height: 160px;
+  width: 160px;
+  background-color: #223a5f;
+  margin: 0px;
+}
+
+.choice-button {
+  padding: 0px;
+  border: none;
+  outline: none;
+  background-color: #223a5f;
+  cursor: pointer;
+  margin: 0px;
+}
